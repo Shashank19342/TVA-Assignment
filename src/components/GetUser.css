@@ -1,0 +1,52 @@
+table{
+    margin: 0px 100px;
+}
+
+th{
+    height: 50px;
+    width: 250px;
+    background-color: #3f99bd;
+    color: white;
+    font-size: 17px;
+}
+
+td{
+    height: 35px;
+    background-color: white;
+    padding: 0 10px;
+    font-size: 14px;
+}
+
+th,td{
+    border-bottom: 1px solid rgb(197, 197, 197);
+}
+
+tbody tr a{
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.firstName{
+    cursor: pointer;
+}
+
+.firstName:hover{
+    background-color: rgb(223, 223, 223);
+}
+
+.key1 i{
+    position: relative;
+    left: 10px;
+    cursor: pointer;
+    width: fit-content;
+    height: 10px;
+}
+
+.key1 i:first-child{
+    top: -3px;
+}
+
+.key1 i:last-child{
+    left: -0.5px;
+    top: 7px;
+}

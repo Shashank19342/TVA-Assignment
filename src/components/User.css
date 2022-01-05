@@ -1,0 +1,27 @@
+.user{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    top: 2%;
+    left: 0;
+    right: 0;
+    width: 95%;
+}
+
+.user h1{
+    margin-bottom: 15px;
+    margin-left: 100px;
+    width: 300px;
+    border-bottom: 2px solid rgb(63, 153, 189);
+    color: rgb(63, 153, 189);
+}
+
+.user input{
+    width: 300px;
+    padding: 5px 3px;
+    outline: none;
+    margin-bottom: 15px;
+    margin-left: 100px;
+}
+
