@@ -11,7 +11,7 @@ Steps to Clone the project on you PC:
 
 # Step 2: Setting up the App
     - Open your VSCode editor or any other editor and open the new folder inside the folder you created ( inside My Folder )
-    - In the folder delete any folder named node_module and also delete package-lock.json or yarn-lock.json
+    - In the folder delete any file named package-lock.json or yarn-lock.json
     - In the terminal of the editor or in the cmd at correct directry run the command "npm install"
     - Now any external packages if used in the project will be installed and new file package-lock.json will be created
 
