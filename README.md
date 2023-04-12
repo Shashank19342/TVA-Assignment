@@ -1,7 +1,7 @@
 # TVA-Assignment
 
 # Link to the Project - 
-    https://shashank19342.github.io/myapp/
+    https://shashank19342.github.io/apiTable/
 
 Steps to Clone the project on you PC:
 
